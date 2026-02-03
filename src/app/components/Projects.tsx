@@ -9,6 +9,10 @@ import {
     viewportConfig,
     buttonTap,
 } from "@/utils/animation-utils";
+<h2 style={{ color: "lime", fontSize: "32px" }}>
+  REACT UPDATE CONFIRMED
+</h2>
+
 
 interface Project {
     id: number;
