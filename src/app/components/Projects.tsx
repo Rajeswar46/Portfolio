@@ -31,7 +31,7 @@ export function Projects() {
             description: "Kheti Bharat website is for farmers",
             longDescription:
                 "KhetiBharat is an integrated nature-farming ecosystem that directly connects farmers and families. ",
-            image: "/k.png",
+            image: "/imgs/k.png",
             tags: ["Next.js", "Tailwind", "Stripe"],
             liveUrl: "https://khetibharat.vercel.app/",
             githubUrl: "#",
@@ -42,7 +42,7 @@ export function Projects() {
             description: "RKapsilan Research lab website built with wixstudios",
             longDescription:
                 " website built with wixstudios and hosted on wixstudios",
-            image: "/rk.png",
+            image: "/imgs/rk.png",
             tags: ["wixstudios"],
             liveUrl: "https://www.rkapsilan.com/",
             githubUrl: "#",
